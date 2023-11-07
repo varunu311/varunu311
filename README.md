@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+As an ardent Computer Science major at the University of North Carolina at Charlotte, I thrive on dissecting and devising novel solutions to intricate challenges. My technical repertoire is robust, boasting proficiency in Python, Java, and C++, and many other languages. This skill set has been honed across a spectrum of projects, including the development of a full stack applications, games and web extensions.
+
+My distinction lies in the blend of an unwavering work ethic, a perpetual desire to learn, and an ability to flourish within team-based settings. It's my firm belief that my dedication and knowledge are catalysts for collective success.
+
+I invite you to peruse my repositories and reach out for collaboration. 🚀
 <!--
 **varunu311/varunu311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
