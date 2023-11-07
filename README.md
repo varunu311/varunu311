@@ -13,4 +13,4 @@
   Hello, I'm Varun! 👋
 </h1>
 
-!!!Comming Soon!!!
+!!!Coming Soon!!!
