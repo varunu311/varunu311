@@ -1,21 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="220"/>
 
-As an ardent Computer Science major at the University of North Carolina at Charlotte, I thrive on dissecting and devising novel solutions to intricate challenges. My technical repertoire is robust, boasting proficiency in Python, Java, and C++, and many other languages. This skill set has been honed across a spectrum of projects, including the development of a full stack applications, games and web extensions.
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/varun-upadhyay-898232210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="varunu311.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+</a>
+  </div>
+  <h1>
+  Hello, I'm Varun! 👋
+</h1>
 
-My distinction lies in the blend of an unwavering work ethic, a perpetual desire to learn, and an ability to flourish within team-based settings. It's my firm belief that my dedication and knowledge are catalysts for collective success.
-
-I invite you to peruse my repositories and reach out for collaboration. 🚀
-<!--
-**varunu311/varunu311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!!!Comming Soon!!!
