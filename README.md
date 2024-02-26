@@ -12,4 +12,4 @@ Hey there! 👋 As a software developer, weaving together logic and creativity t
 
 But there's more to me than just lines of code! When I'm not geeking out over the latest tech trends, you'll find me exploring the great outdoors, experimenting with new recipes in the kitchen, or catching me 😴. Oh, and did I mention i'm a foodie!?
 
-Let's connect and swap stories about our coding adventures!"
+Let's connect and swap stories about our coding adventures!
